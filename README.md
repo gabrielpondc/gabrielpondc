@@ -1,12 +1,7 @@
 # Hello, This is GabrielPondC's Github Home
 
 In here you could call my Chinese name 顾家楷 (Gu Jiakai) or Korean name 고가해 (Gokkahae) or Japanese name 顧家楷 (コカかい Kokakai) or just Gabriel.
-<a href="https://github.com/gabrielpondc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielpondc" />
-</a>
-<a href="https://github.com/gabrielpondc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielpondc" />
-</a>
+![GabrielPondC's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielpondc&show_icons=true&theme=dark)
 
 ## Where am i from?
 
