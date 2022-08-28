@@ -48,7 +48,8 @@ Huai'an, Jiangsu, People republic of China.
 * Teaching Assistant, Class for practicing of Business intelligence , 2020 Fall, graduate course, Department of Computer Science and Engineering, Chung-Ang University, Seoul, South Korea.
 
 ## My journal article 
-Gu, jk., Li, g., Jason, jj.  (2022). Contextual Word2Vec Model for Understanding Chinese Out Of Vocabularies on Online Social Media. International Journal on Semantic Web and Information Systems (IJSWIS), Volume 18, Issue 1, Article 47 (Accepted, waiting for publish)
+Gu, J., Li,G., Vo, N. D., & Jung, J. J. (2022). Contextual Word2Vec Model for Understanding Chinese Out of Vocabularies on Online Social Media. International Journal on Semantic Web and Information Systems (IJSWIS), 18(1), 1-14. http://doi.org/10.4018/IJSWIS.309428
+
 
 ## My Dev experience
 
