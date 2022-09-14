@@ -65,7 +65,7 @@ Gu, J., Li,G., Vo, N. D., & Jung, J. J. (2022). Contextual Word2Vec Model for Un
 #### Cloud dev
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"> <img src="https://img.shields.io/badge/Oracle Instance-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Baidu%20Cloud-2b32d8?style=for-the-badge&logo=Baidu&logoColor=white"> <img src="https://img.shields.io/badge/Alibaba%20Cloud-FF6A00?style=for-the-badge&logo=Alibaba%20Cloud&logoColor=white"> <img src="https://img.shields.io/badge/Tencent%20Cloud-59bacc?style=for-the-badge&logo=iCloud&logoColor=white">
 
-*Spacial Edition: 2022-08 Oracle Cloud Onboarding from the project in Oracle for Research Grant https://www.linkedin.com/feed/update/urn:li:activity:6969929168729903104/
+*Spacial Edition: 2022-08 Oracle Cloud Onboarding from the project in Oracle for Research Grant with Jung, J. J. https://www.linkedin.com/feed/update/urn:li:activity:6969929168729903104/
 
 #### Deeplearn dev
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
