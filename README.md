@@ -72,3 +72,10 @@ Gu, J., Li,G., Vo, N. D., & Jung, J. J. (2022). Contextual Word2Vec Model for Un
 
 #### Front Dev
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Apache%20Echarts-AA344D?style=for-the-badge&logo=Apache%20Echarts&logoColor=white"> <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white"> <img src="https://img.shields.io/badge/Kakao%20Map-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=white">
+
+###Related link
+[DBLP](https://dblp.org/pid/328/5833.html) https://dblp.org/pid/328/5833.html
+[Linkedin](https://www.linkedin.com/in/%E5%AE%B6%E6%A5%B7-%E9%A1%BE-41896b8b) https://www.linkedin.com/in/%E5%AE%B6%E6%A5%B7-%E9%A1%BE-41896b8b
+[Facebook](https://www.facebook.com/gujiakai/) https://www.facebook.com/gujiakai/
+[KELAB](http://ke.cau.ac.kr/index.php?title=JiaKai_Gu) http://ke.cau.ac.kr/index.php?title=JiaKai_Gu
+[ORCID](https://orcid.org/0000-0001-9913-7864) https://orcid.org/0000-0001-9913-7864
