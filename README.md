@@ -76,7 +76,12 @@ Gu, J., Li,G., Vo, N. D., & Jung, J. J. (2022). Contextual Word2Vec Model for Un
 ###Related link
 
 [DBLP](https://dblp.org/pid/328/5833.html) 
+
 [Linkedin](https://www.linkedin.com/in/%E5%AE%B6%E6%A5%B7-%E9%A1%BE-41896b8b) 
+
 [Facebook](https://www.facebook.com/gujiakai/)
+
 [KELAB](http://ke.cau.ac.kr/index.php?title=JiaKai_Gu) 
+
 [ORCID](https://orcid.org/0000-0001-9913-7864)
+
