@@ -50,6 +50,7 @@ Huai'an, Jiangsu, People republic of China.
 ## My journal article 
 Gu, J., Li,G., Vo, N. D., & Jung, J. J. (2022). Contextual Word2Vec Model for Understanding Chinese Out of Vocabularies on Online Social Media. International Journal on Semantic Web and Information Systems (IJSWIS), 18(1), 1-14. http://doi.org/10.4018/IJSWIS.309428
 
+Gu Y, Gu J, Li G, Yun H, Jung JJ, An S, Camacho D. AWMC: Abnormal-Weather Monitoring and Curation Service Based on Dynamic Graph Embedding. Applied Sciences. 2022; 12(20):10444. https://doi.org/10.3390/app122010444
 
 ## My Dev experience
 
