@@ -53,7 +53,7 @@ Gu, J., Li,G., Vo, N. D., & Jung, J. J. (2022). Contextual Word2Vec Model for Un
 
 Gu Y, Gu J, Li G, Yun H, Jung JJ, An S, Camacho D. AWMC: Abnormal-Weather Monitoring and Curation Service Based on Dynamic Graph Embedding. Applied Sciences. 2022; 12(20):10444. https://doi.org/10.3390/app122010444
 
-Gu, Jiakai; Jung, Jason J. (2023): Graph Embedding-based Matching Multilingual Out-of-Vocabulary Terms on Social Media. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.22057322
+Gu, Jiakai; Jung, Jason J. (2023): Graph Embedding-based Matching Multilingual Out-of-Vocabulary Terms on Social Media. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.22057322 https://figshare.com/s/da4dcb49012fae78e00b
 
 ## My Dev experience
 
