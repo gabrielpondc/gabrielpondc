@@ -55,7 +55,7 @@ Gu Y, Gu J, Li G, Yun H, Jung JJ, An S, Camacho D. AWMC: Abnormal-Weather Monito
 
 Gu, Jiakai; Jung, Jason J. (2023): Graph Embedding-based Matching Multilingual Out-of-Vocabulary Terms on Social Media. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.22057322
 
-Yuxuan Gu, Gen Li, Jiakai Gu, Jason J. Jung,Graph embedding-based Anomaly localization for HVAC system,Journal of Building Engineering,2023,107511,ISSN 2352-7102,https://doi.org/10.1016/j.jobe.2023.107511.
+Gu Y, Li G, Gu J, Jung JJ, Graph embedding-based Anomaly localization for HVAC system, Journal of Building Engineering, 2023, 107511; ISSN 2352-7102, https://doi.org/10.1016/j.jobe.2023.107511.
 
 
 ## My Dev experience
