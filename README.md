@@ -36,7 +36,7 @@ Huai'an, Jiangsu, People republic of China.
 
 ## My Education experience
 
-* Mar 2021 – present: Chung-Ang University, Master, Knowledge Engineering, Computer Science and Engineering, Seoul, South Korea
+* Mar 2021 – Feb 2023: Chung-Ang University, Master, Knowledge Engineering, Computer Science and Engineering, Seoul, South Korea
 * Mar 2017 – Feb 2021: Chung-Ang University, College of ICT engineering,School of computer engineering computer science and software, Bachelor of Engineering, Seoul, Korea
 * Sep 2015 – Dec 2016: School of Language Education, Nanjing University, Nanjing city, Jiangsu province, People's Republic of China.
 * Sep 2012 – June 2015: Affiliated High School of Huaiyin Normal University, Huai'an city, Jiangsu province, People's Republic of China.
