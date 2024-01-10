@@ -34,7 +34,7 @@ Huai'an, Jiangsu, People republic of China.
 ![image](https://github.com/gabrielpondc/gabrielpondc/blob/main/Japanese-FFFFFF.png)
 
 ## My Work Experience
-July 2023 - present Big Data Intelligent Development Engineer of Regional Medical R&D Dept. in Kingt Software Co. Ltd.
+July 2023 - Present Big Data Intelligent Development Engineer of Regional Medical R&D Dept. in Kingt Software Co. Ltd.
 ## My Education Experience
 
 * Mar 2021 – Feb 2023: Chung-Ang University, Master, Knowledge Engineering, Computer Science and Engineering, Seoul, South Korea
