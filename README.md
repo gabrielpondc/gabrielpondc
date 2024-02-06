@@ -45,9 +45,9 @@ July 2023 - Present Big Data Intelligent Development Engineer of Regional Medica
 
 ## My Teaching Experience
 
-* Teaching Assistant, Class for practicing of Nature language processing and information retrieval, 2022 Spring, undergraduate course, Department of Computer Science and Engineering, Chung-Ang University, Seoul, South Korea.
-* Teaching Assistant, Class for practicing of Business intelligence , 2021 Fall, undergraduate course, Department of Computer Science and Engineering, Chung-Ang University, Seoul, South Korea.
-* Teaching Assistant, Class for practicing of Business intelligence , 2021 Fall, graduate course, Department of Computer Science and Engineering, Chung-Ang University, Seoul, South Korea.
+* Teaching Assistant, Class for practicing of Nature Language Processing and information retrieval, 2022 Spring, undergraduate course, Department of Computer Science and Engineering, Chung-Ang University, Seoul, South Korea.
+* Teaching Assistant, Class for practicing of Business Intelligence , 2021 Fall, undergraduate course, Department of Computer Science and Engineering, Chung-Ang University, Seoul, South Korea.
+* Teaching Assistant, Class for practicing of Business Intelligence , 2021 Fall, graduate course, Department of Computer Science and Engineering, Chung-Ang University, Seoul, South Korea.
 
 ## My Journal Article 
 Gu, J., Li,G., Vo, N. D., & Jung, J. J. (2022). Contextual Word2Vec Model for Understanding Chinese Out of Vocabularies on Online Social Media. International Journal on Semantic Web and Information Systems (IJSWIS), 18(1), 1-14. http://doi.org/10.4018/IJSWIS.309428
