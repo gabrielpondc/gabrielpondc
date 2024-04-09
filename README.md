@@ -23,6 +23,7 @@ Huai'an, Jiangsu, People republic of China.
 * Multilingual out-of-vocabulary term Translation by Translation Matrix
 * Multilingual out-of-vocabulary term meaning understanding by contextual word2vec model
 * Graph Embedding-based Matching Multilingual Out-of-Vocabulary Terms on Social Media
+* Large Language Model Fintuning and Application
 ## My language ability
 #### First language
 ![image](https://github.com/gabrielpondc/gabrielpondc/blob/main/1.png)
