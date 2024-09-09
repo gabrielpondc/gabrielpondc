@@ -2,11 +2,12 @@
 
 In here you could call my Chinese name 顾家楷 (Jiakai Gu) or Korean name 고가해 (Gokkahae) or Japanese name 顧家楷 (コカかい Kokakai) or just Gabriel.
 
+## Visit Count
 
+<p align="center"><img src="https://profile-counter.glitch.me/{gabrielpondc}/count.svg" alt="gabrielpondc :: Visitor's Count"width="auto" /></p>  
 
 ## Some Profile
-<p align="center">Visit Count </p>  
-<p align="center"><img src="https://profile-counter.glitch.me/{gabrielpondc}/count.svg" alt="gabrielpondc :: Visitor's Count"width="auto" /></p>  
+
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="auto" />
 
 ## Where am i from?
