@@ -2,16 +2,11 @@
 
 In here you could call my Chinese name 顾家楷 (Jiakai Gu) or Korean name 고가해 (Gokkahae) or Japanese name 顧家楷 (コカかい Kokakai) or just Gabriel.
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 
 ## Some Profile
 
-<a href="https://github.com/gabrielpondc/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielpondc&show_icons=true&theme=tokyonight" / width="400px">
-</a>
-<a href="https://github.com/gabrielpondc/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpondc&layout=compact&theme=tokyonight&hide=c,makefile&langs_count=15"  width="400px"/>
-</a>
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="auto" />
 
 ## Where am i from?
 
