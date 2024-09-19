@@ -69,7 +69,7 @@ Gu Y, Li G, Gu J, Jung JJ, Graph embedding-based Anomaly localization for HVAC s
 
 *Special event: 2022-08 Oracle Cloud Onboarding from the project in Oracle for Research Grant with Jung, J. J. https://www.linkedin.com/feed/update/urn:li:activity:6969929168729903104/
 
-#### Deeplearn Dev
+#### Deep Learning & Machine Learning  Dev
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 
 #### Front Dev
