@@ -1,6 +1,6 @@
 <h1 align= "center"><img src="https://github.githubassets.com/images/mona-loading-default.gif" width="60"><b>Hello, This is GabrielPondC's Github Home</b><p align="center">You are the <img src="https://profile-counter.glitch.me/{gabrielpondc}/count.svg" alt="gabrielpondc :: Visitor's Count"width="auto" /> visitor</p>  </h1>
 
-Hi there! You can call me by my Chinese name, 顾家楷 (Jiakai Gu), my Korean name, 고가해 (Gokkahae), my Japanese name, 顧家楷 (コカかい, Kokakai), or simply Gabriel.
+Hi there! You can call me by my Chinese name, 顾家楷 (Jiakai Gu【Jiakai Goo】), my Korean name, 고가해 (Gokkahae), my Japanese name, 顧家楷 (コカかい, Kokakai), or simply Gabriel.
 
 ## Some Profile
 
