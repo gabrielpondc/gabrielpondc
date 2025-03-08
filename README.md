@@ -21,7 +21,7 @@ Huai'an, Jiangsu, People republic of China.
 * Smart Business Intelligence and Data Predictions by LLM for analysis business data
 * Smart Costumer Service System with RAG by LLM
 * Hybrid-Retrieval Augmented Generation Tec. for Smart SQL, BI and CS system
-* LLM for Health Information System (Electric Medicine Record Generation, Inspection Data Analysis, AI Introduction Diagnosis)
+* Smart Health Information System (Electric Medical Record Generation, Inspection Data Analysis, AI Introduction Diagnosis)
 ## My language ability
 #### First language
 ![image](https://github.com/gabrielpondc/gabrielpondc/blob/main/1.png)
