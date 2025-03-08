@@ -17,11 +17,11 @@ Huai'an, Jiangsu, People republic of China.
 * Multilingual out-of-vocabulary term meaning understanding by contextual word2vec model
 * Graph Embedding-based Matching Multilingual Out-of-Vocabulary Terms on Social Media
 * Large Language Model Fintuning and Application
-* Smart SQL Generation by LLM for Business Intelligence
-* Smart Business Intelligence and Data Predictions by LLM for analysis business data
-* Smart Costumer Service System with RAG by LLM
+* Smart SQL Generation based on LLM for Business Intelligence
+* Smart Business Intelligence and Data Predictions based on LLM for analysis business data
+* Smart Costumer Service System with RAG based on LLM
 * Hybrid-Retrieval Augmented Generation Tec. for Smart SQL, BI and CS system
-* Smart Health Information System (Electric Medical Record Generation, Inspection Data Analysis, AI Introduction Diagnosis)
+* Smart Health Information System based on LLM (Electric Medical Record Generation, Inspection Data Analysis, AI Introduction Diagnosis)
 ## My language ability
 #### First language
 ![image](https://github.com/gabrielpondc/gabrielpondc/blob/main/1.png)
