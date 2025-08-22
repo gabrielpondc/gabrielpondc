@@ -20,7 +20,7 @@ Huai'an, Jiangsu, People republic of China.
 * Smart SQL Generation based on LLM for Business Intelligence
 * Smart Business Intelligence and Data Predictions based on LLM for analysis business data
 * Smart Costumer Service System with RAG based on LLM
-* Hybrid-Retrieval Augmented Generation Tec. for Smart SQL, BI and CS system （Software Portfolio [Chinese Mainland Language](https://mp.weixin.qq.com/s/lXPCa5q8HrFdNoGlVerwwQ))
+* Hybrid-Retrieval Augmented Generation Tec. for Smart SQL, BI and CS system （Software Portfolio [[Chinese Mainland Language](https://mp.weixin.qq.com/s/lXPCa5q8HrFdNoGlVerwwQ)])
 * Smart Health Information System based on LLM (Electronic Medical Record Generation, Inspection Data Analysis, AI Introduction Diagnosis) 
 ## My language ability
 #### First language
