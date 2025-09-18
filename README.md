@@ -57,7 +57,9 @@ Gu, Jiakai; Jung, Jason J. (2023): Graph Embedding-based Matching Multilingual O
 
 Gu Y, Li G, Gu J, Jung JJ, Graph embedding-based Anomaly localization for HVAC system, Journal of Building Engineering, 2023, 107511; ISSN 2352-7102, https://doi.org/10.1016/j.jobe.2023.107511.
 
-
+## My Patent Info
+Dengue fever intelligent monitoring and quality control method based on AI, CN118173284A, https://patents.google.com/patent/CN118173284A/
+AI-based diagnostic text standardization method， CN118133774A， https://patents.google.com/patent/CN118133774A/en
 ## My Dev Experience
 
 #### Made With
