@@ -82,7 +82,7 @@ AI-based diagnostic text standardization method， CN118133774A， https://paten
 #### Front Dev
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Apache%20Echarts-AA344D?style=for-the-badge&logo=Apache%20Echarts&logoColor=white"> <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white"> <img src="https://img.shields.io/badge/Kakao%20Map-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=white">
 
-#### Local deployment of LLM
+#### Local deployment of LLM && Operator Development
 
 <img src="https://img.shields.io/badge/HUAWEI%20Ascend-000000?style=for-the-badge&logo=Huawei&logoColor=red"> <img src="https://img.shields.io/badge/Nvidia%20Cuda-000000?style=for-the-badge&logo=Nvidia&logoColor=76b900"> <img src="https://img.shields.io/badge/AIStack-000000?style=for-the-badge&logo=Alibabacloud&logoColor=ff6600">
 
