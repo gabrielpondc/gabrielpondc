@@ -1,4 +1,8 @@
-<h1 align= "center"><img src="https://github.githubassets.com/images/mona-loading-default.gif" width="60"><b>Hello, This is GabrielPondC's Github Home</b><p align="center">You are the <img src="https://profile-counter.deno.dev/gabrielpondc/count.svg" alt="gabrielpondc :: Visitor's Count"width="auto" /> visitor</p>  </h1>
+<h1 align= "center"><img src="https://github.githubassets.com/images/mona-loading-default.gif" width="60"><b>Hello, This is GabrielPondC's Github Home</b><p align="center">
+  You are the <img src="https://giews.fra.appwrite.run/gabrielpondc/terminal" alt="Views"/> visitors
+</p></h1>
+
+
 
 Hi there! You could call me by 顾家楷 (Jiakai Gu【Gee-ah Kye Goo：/dʒiː.ɑ kaɪ ɡuː/】 or in Chinese Order Gu JiaKai), or 고가해 (Gokkahae) or 顧家楷 (コカかい, Kokakai), or simply Gabriel.
 
