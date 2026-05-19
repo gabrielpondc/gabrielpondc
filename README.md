@@ -38,7 +38,9 @@ Huai'an, Jiangsu, People republic of China.
 
 ## My Work Experience
 July 2023 - May 2026 Big Data Intelligent Development Engineer of Regional Medical R&D Dept. in Kingt Software Co. Ltd.
+
 May 2026 - Present AI Algorithm Engineer of Digital R&D Center in Ningbo Zhengxin Testing Co., Ltd.
+
 ## My Education Experience
 
 * Mar 2021 – Feb 2023: Chung-Ang University, Master, Knowledge Engineering, Computer Science and Engineering, Seoul, South Korea
