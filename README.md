@@ -25,7 +25,9 @@ Huai'an, Jiangsu, People republic of China.
 * Smart Business Intelligence and Data Predictions based on LLM for analysis business data
 * Smart Costumer Service System with RAG based on LLM
 * Hybrid-Retrieval Augmented Generation Tec. for Smart SQL, BI and CS system （Software Portfolio [[Chinese Mainland Language](https://mp.weixin.qq.com/s/lXPCa5q8HrFdNoGlVerwwQ)])
-* Smart Health Information System based on LLM (Electronic Medical Record Generation, Inspection Data Analysis, AI Introduction Diagnosis) 
+* Smart Health Information System based on LLM (Electronic Medical Record Generation, Inspection Data Analysis, AI Introduction Diagnosis)
+* Data-Driven Anomaly Detection in Pile Foundations via Ultrasonic Testing and Low-Strain Integrity Testing
+* Data-Driven Tunnel Crown Monitoring Based on LiDAR
 ## My language ability
 #### First language
 ![image](https://github.com/gabrielpondc/gabrielpondc/blob/main/1.png)
