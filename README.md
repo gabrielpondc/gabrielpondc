@@ -67,7 +67,11 @@ Gu Y, Li G, Gu J, Jung JJ, Graph embedding-based Anomaly localization for HVAC s
 ## My Patent Info
 Dengue fever intelligent monitoring and quality control method based on AI, CN118173284A, https://patents.google.com/patent/CN118173284A/
 
-AI-based diagnostic text standardization method， CN118133774A， https://patents.google.com/patent/CN118133774A/
+AI-based diagnostic text standardization method, CN118133774A, https://patents.google.com/patent/CN118133774A/
+
+A Smart Medical Record Quality Control Method Based on a Hybrid Engine Combining Rules and Large Language Models, CN121415967A, https://patents.google.com/patent/CN121415967A
+
+Dialogue type business intelligent analysis method based on natural language, CN121456020A, https://patents.google.com/patent/CN121456020A
 ## My Dev Experience
 
 #### Made With
